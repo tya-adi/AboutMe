@@ -1,0 +1,245 @@
+
+body
+
+{
+	margin :0;
+	font-family: "Merriweather", serif;
+	text-align: center;
+	font-size: 1.3em;
+	color: #40514E;
+}
+
+h1
+
+{
+	font-family: "Sacramento",cursive;
+	font-size: 5.625rem;
+	margin: 50px auto 0 auto;
+	color: #66BFBF;
+	
+}
+
+h3
+
+{
+	font-family: "Montserrat",serif;
+	color: #11999E;
+}
+
+h2
+{
+	font-family: "Montserrat",serif;
+	font-size: 2.5rem;
+	color: #66BFBF;
+	font-weight: normal;
+	padding-bottom: 10px;
+}
+hr
+{
+	border-style: none;
+	border-top-style: dotted;
+	border-color: grey;
+	border-width: 5px;
+	width: 20%;
+	margin: 100px auto 100px auto;
+}
+p
+
+{
+	line-height: 2;
+}
+a
+
+{
+	color: #11999E;
+	font-family: "Montserrat",serif;
+	margin-right: 20px;
+	margin-left: 20px;
+	text-decoration: none;
+	
+}
+a:hover
+{
+	color: #EAF6F6;
+}
+
+.top-container
+
+{
+	background-color: #E4F9F5;
+	position: relative;
+	padding-top: 100px;
+	margin-bottom: 100px;
+}
+
+.middle-container
+
+{
+	margin-bottom: 100px;
+}
+
+.bottom-container
+{
+	background-color: #66BFBF;
+	padding: 50px 0 20px ;
+}
+
+.pro
+
+{
+	text-decoration: underline;
+}
+
+
+
+.bottom-cloud
+
+{
+	position: absolute;
+	left: 30px;
+}
+
+.top-cloud
+{
+	position: absolute;
+	right: 300px;
+	top: 30px;
+}
+
+.CP
+
+{
+	border-radius: 100%;
+	float: right;
+}
+
+.skill-row
+
+{
+	width: 50%;
+	margin: 100px auto 100px auto;
+	text-align: left;
+}
+
+.Chess-image
+
+{
+	width: 50%;
+	float: left;
+	margin-right: 30px;
+}
+.profile
+
+{
+	border-radius: 100%;
+}
+
+
+.btn {
+  background: #34d9a2;
+  background-image: -webkit-linear-gradient(top, #34d9a2, #5ab82b);
+  background-image: -moz-linear-gradient(top, #34d9a2, #5ab82b);
+  background-image: -ms-linear-gradient(top, #34d9a2, #5ab82b);
+  background-image: -o-linear-gradient(top, #34d9a2, #5ab82b);
+  background-image: linear-gradient(to bottom, #34d9a2, #5ab82b);
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+  font-family: "Montserrat",serif;
+  color: #ffffff;
+  font-size: 25px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #15b2eb;
+  background-image: -webkit-linear-gradient(top, #15b2eb, #34d939);
+  background-image: -moz-linear-gradient(top, #15b2eb, #34d939);
+  background-image: -ms-linear-gradient(top, #15b2eb, #34d939);
+  background-image: -o-linear-gradient(top, #15b2eb, #34d939);
+  background-image: linear-gradient(to bottom, #15b2eb, #34d939);
+  text-decoration: none;
+}
+
+.intro
+
+{
+	width: 40%;
+	margin: auto;
+}
+
+.Copy
+
+{
+	color: #EAF6F6;
+	font-size: 0.75em;
+	padding: 20px 0 20px 0;
+}
+
+/*
+
+Display Property in CSS has four values  :
+
+1. Block.
+2. Inline.
+3. Inline-Block.
+4. None.
+
+Block elements have blocks as long as the page.No any element is present next to them.
+
+Block elements take the whole width of the screen as space.A block element has a line break before and after it.
+
+Eg - Paragraphs, Headers (from h1 to h6), Divisions, Lists and list items, Forms.
+
+An inline display element only takes up that much space as it needs to.
+
+Eg - Spans, Anchor tags are inline elements.They do not block other elements to come next to them.
+
+We cannot change the width of the inline elements.
+
+We can change the width of the Block element but they will still not allow any element next to them.
+
+Inline-block allows us to change the width of the block as well as this display allows elements to come next to it.
+
+Eg - images are inline block elements.
+
+The element with display none disappears.
+
+visibility : hidden property just hides the element on its position but display: none completely removes the element.
+
+*/
+
+/*
+
+1.Content is everything.
+
+--> The width of box for inline display depends on the length of the content.Similarly, The height of the box of the block elements
+depend on the content written there.
+
+2.Order of elements displayed on the page comes from the HTML code.
+
+3.Children sit on the parents.All the HTML elements children sit on the top of their parents.
+
+*/
+
+
+
+/*
+
+Position property of CSS :
+
+1.Static.--> Adding  margin from the parent of the element.
+2.Relative.--> Adding a margin from where the element actually was.
+3.Absolute.
+4.Fixed.-->This keeps the position of the elemnt fixed.The position is fixed even when we scroll down or up thorough the web page.
+
+Coordinate Propeerty :
+
+1.Top.
+2.Bottom.
+3.Right.
+4.Left.
+
+
+*/

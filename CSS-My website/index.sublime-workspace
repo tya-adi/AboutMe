@@ -1,0 +1,434 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"th",
+				"th"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"vl",
+				"vll"
+			],
+			[
+				"if",
+				"if"
+			],
+			[
+				"m",
+				"m"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"end",
+				"endl"
+			],
+			[
+				"T",
+				"Tidak"
+			],
+			[
+				"con",
+				"consonant"
+			],
+			[
+				"unordered",
+				"unordered_set"
+			],
+			[
+				"unordere",
+				"unordered_map"
+			],
+			[
+				"sum",
+				"sum-maxm"
+			],
+			[
+				"resti",
+				"resistivity"
+			],
+			[
+				"t",
+				"t"
+			],
+			[
+				"d",
+				"do\tDo While Loop"
+			],
+			[
+				"h",
+				"hi"
+			],
+			[
+				"int",
+				"int"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Emoji",
+				"Emoji: Insert Emoji"
+			],
+			[
+				"Reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indentation",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Packagedev",
+				"PackageDev: Edit Current Color Scheme"
+			],
+			[
+				"reindent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"snippe",
+				"PackageDev: New Raw Snippet"
+			],
+			[
+				"Snippet:",
+				"Snippet: #include <…>"
+			],
+			[
+				"Snip",
+				"Snippet: Typedef"
+			],
+			[
+				"PackageDev",
+				"PackageDev: Edit Current Color Scheme"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"settings",
+				"FastOlympicCoding: Open Settings"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			],
+			[
+				"Snippet: ",
+				"Snippet: main()"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 495.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ADITYA KUMAR/Desktop/Sports Coding/CompetitiveProgramming.cpp",
+		"/C/Users/ADITYA KUMAR/Desktop/Sports Coding/code.cpp",
+		"/C/Users/ADITYA KUMAR/Desktop/My diary",
+		"/C/Users/ADITYA KUMAR/Desktop/Web development/CSS-My website/index.html",
+		"/C/Users/ADITYA KUMAR/Downloads/WD4.6 Stub HTML Code/WD4.6 Stub HTML Code/StubCode.html",
+		"/C/Users/ADITYA KUMAR/Desktop/Web development/CSS-My website/css/styles.css",
+		"/C/Users/ADITYA KUMAR/Downloads/WD4.6 Stub HTML Code.zip",
+		"/C/Users/ADITYA KUMAR/AppData/Local/Temp/Temp1_WD4.6 Stub HTML Code.zip/__MACOSX/._WD4.6 Stub HTML Code",
+		"/C/Users/ADITYA KUMAR/Desktop/Web development/My website/Contact.html",
+		"/C/Users/ADITYA KUMAR/Desktop/Web development/My website/Aditya's_website.html",
+		"/C/Users/ADITYA KUMAR/Desktop/Web development/My website/CSS/styles.css",
+		"/C/Users/ADITYA KUMAR/AppData/Local/Temp/Temp1_CSS Debugging Problems.zip/Debugging Problem 2",
+		"/C/Users/ADITYA KUMAR/AppData/Local/Temp/Temp1_CSS Debugging Problems.zip/Debugging Problem 1",
+		"/C/Users/ADITYA KUMAR/Desktop/Web development/CSS/styles.css",
+		"/C/Users/ADITYA KUMAR/Desktop/Sports Coding/a.cpp",
+		"/C/Users/ADITYA KUMAR/Desktop/Web development/HTML/Forms_in_HTML.html",
+		"/C/Users/ADITYA KUMAR/Desktop/Web development/HTML/Tables.html",
+		"/C/Users/ADITYA KUMAR/Desktop/Web development/HTML/Links.html",
+		"/C/Users/ADITYA KUMAR/Desktop/Web development/HTML/Images.html",
+		"/C/Users/ADITYA KUMAR/Desktop/Web development/HTML/Lists_in_HTML.html",
+		"/C/Users/ADITYA KUMAR/Desktop/Web development/HTML/BasicTags.html",
+		"/C/Users/ADITYA KUMAR/Desktop/Web development/HTML/HTML_Boilerplate.htm",
+		"/C/Users/ADITYA KUMAR/Desktop/Sports Coding/Error.txt",
+		"/C/Users/ADITYA KUMAR/Desktop/Sports Coding/output.txt",
+		"/C/Users/ADITYA KUMAR/Desktop/Sports Coding/input.txt",
+		"/C/Users/ADITYA KUMAR/AppData/Roaming/Sublime Text 3/Packages/User/hello.sublime-snippet",
+		"/C/Users/ADITYA KUMAR/AppData/Roaming/Sublime Text 3/Packages/User/C++14(with timeout).sublime-build",
+		"/C/Users/ADITYA KUMAR/Desktop/Sports Coding/CompetitiveProgramming.cpp__tests",
+		"/C/Users/ADITYA KUMAR/Desktop/Sports Coding/123.txt",
+		"/C/Users/ADITYA KUMAR/Desktop/Web development/Daily Analysis.txt",
+		"/C/Users/ADITYA KUMAR/Desktop/Web development/Daily_Analysis.txt",
+		"/C/Users/ADITYA KUMAR/Desktop/Web development/Contact.html",
+		"/C/Users/ADITYA KUMAR/Desktop/Web development/Aditya.html",
+		"/C/Users/ADITYA KUMAR/Desktop/Web development/Blog.htm",
+		"/C/Users/ADITYA KUMAR/Desktop/Sports Coding/a.html",
+		"/C/Users/ADITYA KUMAR/Desktop/Sports Coding/test.cpp",
+		"/C/Users/ADITYA KUMAR/AppData/Roaming/Sublime Text 3/Packages/User/CP.sublime-snippet",
+		"/C/Users/ADITYA KUMAR/Desktop/Sports Coding/Affidavit.txt",
+		"/C/Users/ADITYA KUMAR/Desktop/Sports Coding/Disjoint_Set_Union.cpp",
+		"/C/Users/ADITYA KUMAR/Desktop/Sports Coding/New folder/bfs.cpp",
+		"/C/Users/ADITYA KUMAR/AppData/Roaming/Sublime Text 3/Packages/User/C++14.sublime-build",
+		"/C/Users/ADITYA KUMAR/AppData/Roaming/Sublime Text 3/Packages/User/C++17.sublime-build",
+		"/C/Users/ADITYA KUMAR/Desktop/C Assignments/Area and Circumference of a Circle.c",
+		"/C/Users/ADITYA KUMAR/Desktop/CSE Assignment/Pointer1.c",
+		"/C/Users/ADITYA KUMAR/Desktop/CSE Practical 2nd sem/Question4.c",
+		"/C/Users/ADITYA KUMAR/Desktop/Sports Coding/Question5.c",
+		"/C/Users/ADITYA KUMAR/Desktop/CSE Practical 2nd sem/Question 6-1.c",
+		"/C/Users/ADITYA KUMAR/Desktop/CSE Practical 2nd sem/Question6.c",
+		"/C/Users/ADITYA KUMAR/Desktop/CSE Practical 2nd sem/Question7.c",
+		"/C/Users/ADITYA KUMAR/Desktop/CSE Practical 2nd sem/Question8.c",
+		"/C/Users/ADITYA KUMAR/Desktop/Sports Coding/Question8.c",
+		"/C/Users/ADITYA KUMAR/Desktop/Sports Coding/testfile.cpp",
+		"/C/Users/ADITYA KUMAR/AppData/Roaming/Sublime Text 3/Packages/User/cpp.sublime-build",
+		"/C/Users/ADITYA KUMAR/Desktop/Sports Coding/Project.c",
+		"/C/Users/ADITYA KUMAR/AppData/Roaming/Sublime Text 3/Packages/User/C_RUN.sublime-build",
+		"/C/Users/ADITYA KUMAR/AppData/Roaming/Sublime Text 3/Packages/User/C-run",
+		"/C/Users/ADITYA KUMAR/Desktop/Sports Coding/array.c",
+		"/C/Users/ADITYA KUMAR/Desktop/Sports Coding/Pointer2.c",
+		"/C/Users/ADITYA KUMAR/Desktop/Sports Coding/Pointer1.c",
+		"/C/Users/ADITYA KUMAR/Desktop/Sports Coding/TestFile.cpp",
+		"/C/Users/ADITYA KUMAR/Desktop/Sports Coding/Programming.cpp",
+		"/C/Users/ADITYA KUMAR/Desktop/CSE Assignment/Question 3.c",
+		"/C/Users/ADITYA KUMAR/Desktop/CSE Assignment/Question 2.c",
+		"/C/Users/ADITYA KUMAR/Desktop/Sports Coding/BinarySearch.cpp",
+		"/C/Users/ADITYA KUMAR/Desktop/CP/output.txt",
+		"/C/Users/ADITYA KUMAR/Desktop/CP/Error.txt",
+		"/C/Users/ADITYA KUMAR/Desktop/CP/input.txt",
+		"/C/Users/ADITYA KUMAR/Desktop/CP/TestFile.cpp",
+		"/C/Users/ADITYA KUMAR/Desktop/CP/Programming.cpp",
+		"/C/Users/ADITYA KUMAR/Desktop/CP/CompetitiveProgramming.cpp",
+		"/C/Users/ADITYA KUMAR/Desktop/CP/BinarySearch.cpp",
+		"/C/Users/ADITYA KUMAR/Desktop/CP/Competitive Programming.cpp",
+		"/C/Users/ADITYA KUMAR/Desktop/CP/TowerofHanoi.cpp",
+		"/C/Users/ADITYA KUMAR/Desktop/CP/Recursion.cpp",
+		"/C/Users/ADITYA KUMAR/Desktop/CP/Binary Search.cpp",
+		"/C/Users/ADITYA KUMAR/Desktop/App Data",
+		"/C/Program Files/Sublime Text 3/sublime_text.exe",
+		"/C/Users/ADITYA KUMAR/Desktop/CP/Cpp.sublime-build",
+		"/C/Users/ADITYA KUMAR/Desktop/CP/C++1.sublime-build",
+		"/C/Users/ADITYA KUMAR/Desktop/CP/set.cpp",
+		"/C/Users/ADITYA KUMAR/Desktop/CP/gcd.cpp",
+		"/C/Users/ADITYA KUMAR/Desktop/CP/g.c",
+		"/C/Users/ADITYA KUMAR/Desktop/CP/Percentage_of_marks.c",
+		"/C/Users/ADITYA KUMAR/Desktop/CP/main.cpp",
+		"/C/Users/ADITYA KUMAR/Desktop/CP/output1.txt",
+		"/C/Users/ADITYA KUMAR/Desktop/CP/C++17.sublime-build",
+		"/C/Users/ADITYA KUMAR/Desktop/CP/inputf.in",
+		"/C/Users/ADITYA KUMAR/Desktop/CP/outputf.in",
+		"/C/Users/ADITYA KUMAR/Desktop/CP/C++17",
+		"/C/Users/ADITYA KUMAR/Desktop/SUV/input.txt",
+		"/C/Users/ADITYA KUMAR/Desktop/SUV/main.cpp",
+		"/C/Users/ADITYA KUMAR/Desktop/SUV/output.txt",
+		"/C/Users/ADITYA KUMAR/Desktop/SUV/output1.txt",
+		"/C/Users/ADITYA KUMAR/Desktop/SUV/input1.txt",
+		"/C/Users/ADITYA KUMAR/Desktop/SUV/Programming.cpp",
+		"/C/Users/ADITYA KUMAR/Desktop/SUV/C++14.sublime-build"
+	],
+	"find":
+	{
+		"height": 66.0
+	},
+	"find_in_files":
+	{
+		"height": 123.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 43.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/C++14.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 82.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
